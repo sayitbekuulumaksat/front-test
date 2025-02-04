@@ -1,0 +1,52 @@
+.banner-slider {
+  margin-top: 150px;
+  color: #ffffff;
+}
+
+.banner__img {
+  position: absolute;
+  top: 0px;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+}
+
+.banner__subtitle {
+  font-family: Gotham Pro;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  text-align: left;
+  display: inline-block;
+  margin-left: 10px;
+}
+.banner__title {
+  font-family: "Times New Roman", serif;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: 69px;
+  width: 550px;
+}
+
+.banner__deadline {
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 20px;
+  display: inline-block;
+  margin-left: 10px;
+  width: 100px;
+}
+
+.banner__description {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  width: 550px;
+}
+.banner__hr{
+    width: 500px;
+    margin-left: -500px;
+    display: inline-block;
+}

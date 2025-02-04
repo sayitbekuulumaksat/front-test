@@ -1,7 +1,10 @@
 @import url("./css/header.css");
+@import url("./css/banner-slider.css");
 
 body {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  position: relative;
 }
 
 .container {

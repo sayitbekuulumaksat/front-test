@@ -1,7 +1,4 @@
-header {
-  z-index: 2;
-  /* background-image: url("../images/header/header-bg.png"); */
-}
+
 .bg-blur {
   background-color: #00d10a;
   backdrop-filter: blur(22px);
@@ -14,7 +11,7 @@ header {
 }
 .header__content {
   color: white;
-  padding-top: 30px;
+  padding-top: 20px;
   display: flex;
   justify-content: space-between;
   gap: 10px;
