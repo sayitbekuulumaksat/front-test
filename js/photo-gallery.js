@@ -1,11 +1,11 @@
 const images = [
-  "../images/gallery/image.png",
-  "../images/gallery/img.png",
-  "../images/gallery/image.png",
-  "../images/gallery/img.png",
-  "../images/gallery/image.png",
-  "../images//layout/image.png",
-  "../images/gallery/image.png",
+  "./images/gallery/image.png",
+  "./images/gallery/img.png",
+  "./images/gallery/image.png",
+  "./images/gallery/img.png",
+  "./images/gallery/image.png",
+  "./images//layout/image.png",
+  "/images/gallery/image.png",
 ];
 
 const slidesContainer = document.querySelector(".slides-container");
