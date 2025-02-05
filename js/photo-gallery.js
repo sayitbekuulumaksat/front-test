@@ -1,11 +1,15 @@
 const images = [
   "https://cdn.house.kg/house/building-images/29511d4b80bfc091938e503fc2141098.jpg",
-  "./images/gallery/img.png",
-  "./images/gallery/image.png",
-  "./images/gallery/img.png",
-  "./images/gallery/image.png",
-  "./images//layout/image.png",
-  "/images/gallery/image.png",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOPBVJ-8hFdMMDb0L0v_GuH_EiadpDtxunSMQmdwcTjMonEpIdyGjt2edC4glN_k63V8&usqp=CAU",
+  "https://lh3.googleusercontent.com/proxy/p7UmykGn7JtZGtuPY19wpjpXgeJH4OR-aDAiRxns2JbtvCNcKjBpytTUMWh_h_zs0wuqfYc5aaVzR03TNUiX6heGujjJcDNAIo7RSkwoJVe45Pb635Hqbzh_e0-AoXVMpO2022XuBs8mY5iKLNf0zFS7gxmfBxpwzWyi",
+
+  "https://cdn.house.kg/house/building-images/29511d4b80bfc091938e503fc2141098.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOPBVJ-8hFdMMDb0L0v_GuH_EiadpDtxunSMQmdwcTjMonEpIdyGjt2edC4glN_k63V8&usqp=CAU",
+  "https://lh3.googleusercontent.com/proxy/p7UmykGn7JtZGtuPY19wpjpXgeJH4OR-aDAiRxns2JbtvCNcKjBpytTUMWh_h_zs0wuqfYc5aaVzR03TNUiX6heGujjJcDNAIo7RSkwoJVe45Pb635Hqbzh_e0-AoXVMpO2022XuBs8mY5iKLNf0zFS7gxmfBxpwzWyi",
+
+  "https://cdn.house.kg/house/building-images/29511d4b80bfc091938e503fc2141098.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpOPBVJ-8hFdMMDb0L0v_GuH_EiadpDtxunSMQmdwcTjMonEpIdyGjt2edC4glN_k63V8&usqp=CAU",
+  "https://lh3.googleusercontent.com/proxy/p7UmykGn7JtZGtuPY19wpjpXgeJH4OR-aDAiRxns2JbtvCNcKjBpytTUMWh_h_zs0wuqfYc5aaVzR03TNUiX6heGujjJcDNAIo7RSkwoJVe45Pb635Hqbzh_e0-AoXVMpO2022XuBs8mY5iKLNf0zFS7gxmfBxpwzWyi",
 ];
 
 const slidesContainer = document.querySelector(".slides-container");
