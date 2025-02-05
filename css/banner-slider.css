@@ -1,13 +1,14 @@
-.banner-slider {
-  margin-top: 150px;
-  color: #ffffff;
+.banner__block {
+  margin: 150px 0;
+  max-width: 550px;
+  color: white;
 }
-
 .banner__img {
   position: absolute;
-  top: 0px;
+  top: 0;
   width: 100vw;
-  height: 100vh;
+  /* height: 100%; */
+  object-fit: cover;
   z-index: -1;
 }
 
@@ -43,10 +44,16 @@
   font-size: 14px;
   font-weight: 400;
   line-height: 20px;
-  width: 550px;
 }
-.banner__hr{
-    width: 500px;
-    margin-left: -500px;
-    display: inline-block;
+.banner__hr {
+  margin-left: -500px;
+  display: inline-block;
+  width: 500px;
+}
+
+@media (max-width: 800px) {
+  .banner__block {
+    text-align: center;
+    margin: 0 auto;
+  }
 }
