@@ -1,5 +1,5 @@
 const images = [
-  "./images/gallery/image.png",
+  "https://cdn.house.kg/house/building-images/29511d4b80bfc091938e503fc2141098.jpg",
   "./images/gallery/img.png",
   "./images/gallery/image.png",
   "./images/gallery/img.png",
